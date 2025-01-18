@@ -469,40 +469,40 @@ using namespace std;
 // 12******21
 // 1********1
 
-// int main(int argc, char const *argv[])
-// {
-//     int n ;
-//     cin >> n;
+int main(int argc, char const *argv[])
+{
+    int n ;
+    cin >> n;
 
-//     int i=1,j=1;
+    int i=1,j=1;
 
-//     while (i<=n)
-//     {
-//         j=1;
-//         while (j<=(n-i+1))
-//         {
-//             cout << j;
-//             j+=1;
-//         }
+    while (i<=n)
+    {
+        j=1;
+        while (j<=(n-i+1))
+        {
+            cout << j;
+            j+=1;
+        }
 
-//     int mul=(i-1)*2;
-//     while (mul>0)
-//     {
-//         cout << "*";
-//         mul-=1;
-//     }
+    int mul=(i-1)*2;
+    while (mul>0)
+    {
+        cout << "*";
+        mul-=1;
+    }
     
 
-//     j=n-i+1;
-//     while (j>0)
-//         {
-//             cout << j;
-//             j-=1;
-//         }
-//         i+=1;
-//         cout << endl;
+    j=n-i+1;
+    while (j>0)
+        {
+            cout << j;
+            j-=1;
+        }
+        i+=1;
+        cout << endl;
         
-//     }
+    }
     
-//     return 0;
-// }
+    return 0;
+}
