@@ -89,13 +89,3 @@ The repo is organized into different sections based on data structures and algor
    ```bash
    [https://github.com/Prem16-pro/CPP_Learning.git]
    ```
-
-## License
-
-This repository is open-source and available under the MIT License. See the LICENSE file for more information.
-
----
-
-**Note**: This is my personal collection of code and learning materials. If you have suggestions or improvements, feel free to open an issue or submit a pull request!
-
-```
