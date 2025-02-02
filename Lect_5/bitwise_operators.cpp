@@ -16,5 +16,13 @@ int main(int argc, char const *argv[])
     cout << (19<<1) << endl;
     cout << (21<<2) << endl;
 
+
+    int i = 4;
+    int z = i++;
+    cout << z+i << endl;
+
+    i=4;
+    z=++i;
+    cout << z+i << endl;
     return 0;
 }
