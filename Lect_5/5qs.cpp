@@ -50,3 +50,14 @@ using namespace std;
 //     return 0;
 // }
 // op: 100
+
+// int main(int argc, char const *argv[])
+// {
+//     int a=1;
+//     int b=a++;
+//     int c=++a;
+
+//     cout << b << " " << c;
+//     return 0;
+// }
+// op: b=1 c=3
